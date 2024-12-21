@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "250963549268",
+    "firebase_url": "https://teamprojectquicktest-default-rtdb.firebaseio.com",
+    "project_id": "teamprojectquicktest",
+    "storage_bucket": "teamprojectquicktest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250963549268:android:14be9ebef93107ad1261c1",
+        "android_client_info": {
+          "package_name": "com.example.teamprojectquicktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcValZ_4mzoOu8H0gmrkKhpDR8sqaTOsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250963549268:android:b49a73fa082a550a1261c1",
+        "android_client_info": {
+          "package_name": "com.example.thick124lop124ltdd03nhomhehe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcValZ_4mzoOu8H0gmrkKhpDR8sqaTOsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

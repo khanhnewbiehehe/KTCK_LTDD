@@ -16,10 +16,10 @@
             android:name=".Home"
             android:exported="false" />
         <activity
-            android:name=".list_view_sv"
+            android:name=".UpdateMember"
             android:exported="false" />
         <activity
-            android:name=".list_view"
+            android:name=".AddMember"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
