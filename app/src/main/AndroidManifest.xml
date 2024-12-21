@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Thick124lop124LTDD03nhomHeHe"
         tools:targetApi="31">
         <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
             android:name=".UpdateMember"
             android:exported="false" />
         <activity
